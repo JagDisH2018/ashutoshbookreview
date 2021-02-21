@@ -1,0 +1,31 @@
+body{
+	margin:0px;
+	padding: 0px;
+ background-color:lightgray;
+}
+header{
+display:flex;
+height:40px;
+}
+header ul li a{
+text-decoration:none;
+}
+header ul li{
+display:inline;
+padding:20px;
+}
+ a: hover{
+background-color:yellow;
+}
+header form{
+padding-top: 9px;
+text-align:right;
+}
+.heading{
+height:100px;
+width:100%;
+background-color:silver;
+text-align:center;
+padding-top:10px;
+color:black;
+}
